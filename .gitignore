@@ -1,0 +1,85 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/mcp.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Env
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# --- GÜVENLİK (En Önemlisi) ---
+# API anahtarları veya hassas veriler içeren tüm dosyalar
+.env
+.env.local
+.env.*.local
+*.json.bak
+# Az önce kullandığın geçici Jira/Confluence çıktıları
+confluence_spaces.json
+jira_response.json
+confluence_error.json
+
+# --- BAĞIMLILIKLAR ---
+node_modules/
+jspm_packages/
+.pnp/
+.pnp.js
+
+# --- TEST ÇIKTILARI (Playwright & Raporlar) ---
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+# Playwright ile aldığımız ekran görüntüleri (Eğer Git'te saklamak istemiyorsan)
+*.png
+*.jpg
+*.jpeg
+
+# --- DERLEME VE ÇIKTILAR (Build & Production) ---
+dist/
+build/
+out/
+.next/
+.serverless/
+
+# --- LOGLAR ---
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# --- IDE & SİSTEM ---
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- MEMORY BANK & DÖKÜMANTASYON ---
+# Not: .md dosyalarını Git'te tutmalıyız, ancak geçici raporları hariç tutabiliriz.
+# Eğer sadece final raporlarını tutmak istersen:
+# scripts/temp_report.md
+

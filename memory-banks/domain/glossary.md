@@ -1,0 +1,1 @@
+Task Lifecycle (Todo -> In Progress -> Done), localStorage Persistence, Student Persona.

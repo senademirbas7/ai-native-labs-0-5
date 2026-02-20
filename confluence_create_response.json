@@ -1,0 +1,280 @@
+{
+  "id": "786433",
+  "type": "page",
+  "ari": "ari:cloud:confluence:ca95f59b-d68f-4f6d-ab7d-9305e030ad5f:page/786433",
+  "base64EncodedAri": "YXJpOmNsb3VkOmNvbmZsdWVuY2U6Y2E5NWY1OWItZDY4Zi00ZjZkLWFiN2QtOTMwNWUwMzBhZDVmOmNvbnRlbnQvNzg2NDMz",
+  "status": "current",
+  "title": "New Page",
+  "space": {
+    "id": 65932,
+    "ari": "ari:cloud:confluence:ca95f59b-d68f-4f6d-ab7d-9305e030ad5f:space/65932",
+    "key": "PM",
+    "alias": "PM",
+    "name": "Project Management",
+    "type": "collaboration",
+    "status": "current",
+    "_expandable": {
+      "settings": "/rest/api/space/PM/settings",
+      "metadata": "",
+      "identifiers": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "history": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=PM",
+      "permissions": "",
+      "theme": "/rest/api/space/PM/theme",
+      "homepage": "/rest/api/content/66103"
+    },
+    "_links": {
+      "webui": "/spaces/PM",
+      "self": "https://epam-team-y3bxkrl5.atlassian.net/wiki/rest/api/space/PM"
+    }
+  },
+  "history": {
+    "latest": true,
+    "createdBy": {
+      "type": "known",
+      "accountId": "712020:abe2c85e-488a-45b6-ad66-4453952fc3aa",
+      "accountType": "atlassian",
+      "email": "sehrisena_demirbas@epam.com",
+      "publicName": "Sehri Sena Demirbas",
+      "profilePicture": {
+        "path": "/wiki/aa-avatar/712020:abe2c85e-488a-45b6-ad66-4453952fc3aa",
+        "width": 48,
+        "height": 48,
+        "isDefault": false
+      },
+      "displayName": "Sehri Sena Demirbas",
+      "isExternalCollaborator": false,
+      "isGuest": false,
+      "locale": "tr",
+      "accountStatus": "active",
+      "_expandable": {
+        "operations": "",
+        "personalSpace": ""
+      },
+      "_links": {
+        "self": "https://epam-team-y3bxkrl5.atlassian.net/wiki/rest/api/user?accountId=712020:abe2c85e-488a-45b6-ad66-4453952fc3aa"
+      }
+    },
+    "ownedBy": {
+      "type": "known",
+      "accountId": "712020:abe2c85e-488a-45b6-ad66-4453952fc3aa",
+      "accountType": "atlassian",
+      "email": "sehrisena_demirbas@epam.com",
+      "publicName": "Sehri Sena Demirbas",
+      "profilePicture": {
+        "path": "/wiki/aa-avatar/712020:abe2c85e-488a-45b6-ad66-4453952fc3aa",
+        "width": 48,
+        "height": 48,
+        "isDefault": false
+      },
+      "displayName": "Sehri Sena Demirbas",
+      "isExternalCollaborator": false,
+      "isGuest": false,
+      "locale": "tr",
+      "accountStatus": "active",
+      "_expandable": {
+        "operations": "",
+        "personalSpace": ""
+      },
+      "_links": {
+        "self": "https://epam-team-y3bxkrl5.atlassian.net/wiki/rest/api/user?accountId=712020:abe2c85e-488a-45b6-ad66-4453952fc3aa"
+      }
+    },
+    "createdDate": "2026-02-19T09:59:27.754Z",
+    "_expandable": {
+      "lastUpdated": "",
+      "previousVersion": "",
+      "contributors": "",
+      "nextVersion": ""
+    },
+    "_links": {
+      "self": "https://epam-team-y3bxkrl5.atlassian.net/wiki/rest/api/content/786433/history"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "accountId": "712020:abe2c85e-488a-45b6-ad66-4453952fc3aa",
+      "accountType": "atlassian",
+      "email": "sehrisena_demirbas@epam.com",
+      "publicName": "Sehri Sena Demirbas",
+      "profilePicture": {
+        "path": "/wiki/aa-avatar/712020:abe2c85e-488a-45b6-ad66-4453952fc3aa",
+        "width": 48,
+        "height": 48,
+        "isDefault": false
+      },
+      "displayName": "Sehri Sena Demirbas",
+      "isExternalCollaborator": false,
+      "isGuest": false,
+      "locale": "tr",
+      "accountStatus": "active",
+      "_expandable": {
+        "operations": "",
+        "personalSpace": ""
+      },
+      "_links": {
+        "self": "https://epam-team-y3bxkrl5.atlassian.net/wiki/rest/api/user?accountId=712020:abe2c85e-488a-45b6-ad66-4453952fc3aa"
+      }
+    },
+    "when": "2026-02-19T09:59:27.754Z",
+    "friendlyWhen": "bir dakika önce",
+    "message": "",
+    "number": 1,
+    "minorEdit": false,
+    "ncsStepVersion": "1",
+    "ncsStepVersionSource": "ncs-ack",
+    "confRev": "confluence$content$786433.2",
+    "contentTypeModified": false,
+    "_expandable": {
+      "collaborators": "",
+      "content": "/rest/api/content/786433"
+    },
+    "_links": {
+      "self": "https://epam-team-y3bxkrl5.atlassian.net/wiki/rest/api/content/786433/version/1"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66103",
+      "type": "page",
+      "ari": "ari:cloud:confluence:ca95f59b-d68f-4f6d-ab7d-9305e030ad5f:page/66103",
+      "base64EncodedAri": "YXJpOmNsb3VkOmNvbmZsdWVuY2U6Y2E5NWY1OWItZDY4Zi00ZjZkLWFiN2QtOTMwNWUwMzBhZDVmOmNvbnRlbnQvNjYxMDM=",
+      "status": "current",
+      "title": "Project Management",
+      "macroRenderedOutput": {},
+      "extensions": {
+        "position": 505
+      },
+      "_expandable": {
+        "container": "/rest/api/space/PM",
+        "metadata": "",
+        "restrictions": "/rest/api/content/66103/restriction/byOperation",
+        "history": "/rest/api/content/66103/history",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/66103/descendant",
+        "space": "/rest/api/space/PM",
+        "childTypes": "",
+        "schedulePublishInfo": "",
+        "operations": "",
+        "schedulePublishDate": "",
+        "children": "/rest/api/content/66103/child",
+        "ancestors": "",
+        "draftVersion": ""
+      },
+      "_links": {
+        "self": "https://epam-team-y3bxkrl5.atlassian.net/wiki/rest/api/content/66103",
+        "tinyui": "/x/NwIB",
+        "editui": "/pages/resumedraft.action?draftId=66103",
+        "webui": "/spaces/PM/overview",
+        "edituiv2": "/spaces/PM/pages/edit-v2/66103"
+      }
+    }
+  ],
+  "container": {
+    "id": 65932,
+    "ari": "ari:cloud:confluence:ca95f59b-d68f-4f6d-ab7d-9305e030ad5f:space/65932",
+    "key": "PM",
+    "alias": "PM",
+    "name": "Project Management",
+    "type": "collaboration",
+    "status": "current",
+    "history": {
+      "createdBy": {
+        "type": "known",
+        "accountId": "712020:abe2c85e-488a-45b6-ad66-4453952fc3aa",
+        "accountType": "atlassian",
+        "email": "sehrisena_demirbas@epam.com",
+        "publicName": "Sehri Sena Demirbas",
+        "profilePicture": {
+          "path": "/wiki/aa-avatar/712020:abe2c85e-488a-45b6-ad66-4453952fc3aa",
+          "width": 48,
+          "height": 48,
+          "isDefault": false
+        },
+        "displayName": "Sehri Sena Demirbas",
+        "isExternalCollaborator": false,
+        "isGuest": false,
+        "locale": "tr",
+        "accountStatus": "active",
+        "_expandable": {
+          "operations": "",
+          "personalSpace": ""
+        },
+        "_links": {
+          "self": "https://epam-team-y3bxkrl5.atlassian.net/wiki/rest/api/user?accountId=712020:abe2c85e-488a-45b6-ad66-4453952fc3aa"
+        }
+      },
+      "createdDate": "2026-02-19T09:52:10.643Z"
+    },
+    "_expandable": {
+      "settings": "/rest/api/space/PM/settings",
+      "metadata": "",
+      "operations": "",
+      "lookAndFeel": "/rest/api/settings/lookandfeel?spaceKey=PM",
+      "identifiers": "",
+      "permissions": "",
+      "roles": "",
+      "icon": "",
+      "typeSettings": "",
+      "description": "",
+      "theme": "/rest/api/space/PM/theme",
+      "homepage": "/rest/api/content/66103"
+    },
+    "_links": {
+      "webui": "/spaces/PM",
+      "self": "https://epam-team-y3bxkrl5.atlassian.net/wiki/rest/api/space/PM"
+    }
+  },
+  "macroRenderedOutput": {},
+  "body": {
+    "storage": {
+      "value": "<hr />\n<h2>title: &quot;Task Management App PRD&quot;\ntype: prd\nstatus: draft</h2>\n<h1>Project Overview</h1>\n<p>This application is a smart task manager built for the EPAM AI Bootcamp.</p>\n<h2>Core Features</h2>\n<ul>\n<li><strong>Offline-first:</strong> Uses LocalStorage.</li>\n<li><strong>AI-Powered:</strong> Generates sub-tasks.</li>\n<li><strong>Context Awareness:</strong> Uses Memory Banks.</li>\n</ul>",
+      "representation": "storage",
+      "embeddedContent": [],
+      "_expandable": {
+        "content": "/rest/api/content/786433"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "atlas_doc_format": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "dynamic": "",
+      "editor2": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": 2637
+  },
+  "_expandable": {
+    "childTypes": "",
+    "schedulePublishInfo": "",
+    "metadata": "",
+    "operations": "",
+    "schedulePublishDate": "",
+    "children": "/rest/api/content/786433/child",
+    "restrictions": "/rest/api/content/786433/restriction/byOperation",
+    "draftVersion": "",
+    "descendants": "/rest/api/content/786433/descendant"
+  },
+  "_links": {
+    "editui": "/pages/resumedraft.action?draftId=786433",
+    "webui": "/spaces/PM/pages/786433/New+Page",
+    "edituiv2": "/spaces/PM/pages/edit-v2/786433",
+    "context": "/wiki",
+    "self": "https://epam-team-y3bxkrl5.atlassian.net/wiki/rest/api/content/786433",
+    "tinyui": "/x/AQAM",
+    "collection": "/rest/api/content",
+    "base": "https://epam-team-y3bxkrl5.atlassian.net/wiki"
+  }
+}
